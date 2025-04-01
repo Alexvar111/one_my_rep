@@ -46,7 +46,7 @@
 
 1. Клонируйте репозиторий:
 
-git clone https://github.com/Alexvar111/one_my_rep.git
+   git clone https://github.com/Alexvar111/one_my_rep.git
 
 2. Откройте проект в предпочитаемом редакторе кода
 
